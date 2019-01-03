@@ -1,2 +1,2 @@
-# trinity
-@hsaimen/trinity
+# @hsaimen/trinity
+trinity
