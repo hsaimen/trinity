@@ -3,4 +3,4 @@ trinity
 
 Install
 
-'$ npm install @hsaimen/trinity'
+$ npm install @hsaimen/trinity
