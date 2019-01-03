@@ -1,0 +1,14 @@
+{
+  "name": "@hsaimen/trinity",
+  "version": "1.0.0",
+  "description": "Removes all spaces from a string",
+  "license": "MIT",
+  "repository": "hsaimen/trinity",
+  "main": "index.js",
+  "keywords": [
+    "tiny",
+    "npm",
+    "package",
+    "bamblehorse"
+  ]
+}
